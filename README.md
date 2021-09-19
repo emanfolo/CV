@@ -1,6 +1,6 @@
-## Your Name
+## Emmanuel Folorunsho
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a driven by self-improvement, passionate about learning, and motivated to actualise my full potential. In my professional career since graduating I have gained valuable business and finance knowledge as well as a determination to achieve my goals. What excites me the most about tech is the ever expanding pool of knowledge to draw from, I believe this field is a perfect match for my intellectual curiosity.
 
 ## Projects
 
@@ -18,40 +18,19 @@ Graduate Trainee Accountant
 - Worked directly with partners on several projects, gaining valuable insight into the financial services industry. 
 - Developed strong verbal and written communication skills, including the ability to explain highly technical concepts to clients in terms they find digestible.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+## Ability to pick up new information quickly and independently
 
-- Any experience relevent to software development
+- Six months into my role at my previous firm the stay-at-home order was announced with many companies being blindsided as to the impact this would have on their business. 
+- I offered to research into the assistance provided by the government and the extent to which different types of businesses would be able to utilise this. 
+- After consolidating all the relevant government publications I was able to prepare a standardised briefing for our clients that would provide a sense of ease.
+- We were able to provide the briefing to much positive feedback from clients.
 
-## Skills
+#### Excellent verbal and written communication skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I was tasked with helping run weekly training on different developments within the Banking industry.
+- This required creating powerpoint presentations to present to the Financial Services team alongside more senior members of staff.
+- This further developed my communication skills as often we were tasked with explaining complex developments in terms that would be digestible to the audience.
+- The weekly trainings were well received as there were junior staff who had less knowledge of the Banking sector, as well as Senior staff who had less knowledge of technology developments. 
 
 ## Education
 
@@ -75,4 +54,5 @@ University of Leicester — Law LLB
 
 ## Hobbies
 
-- 
+- I'm particularly interested in running and I'm inspired by the ways in which the discipline it provides can help you in other aspects of life
+- I'm also really interested in philosophy as I believe its study provides a good way to maintain perspective on the important things in life
