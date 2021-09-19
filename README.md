@@ -18,7 +18,9 @@ Graduate Trainee Accountant
 - Worked directly with partners on several projects, gaining valuable insight into the financial services industry. 
 - Developed strong verbal and written communication skills, including the ability to explain highly technical concepts to clients in terms they find digestible.
 
-## Ability to pick up new information quickly and independently
+## Skills
+
+#### Ability to pick up new information quickly and independently
 
 - Six months into my role at my previous firm the stay-at-home order was announced with many companies being blindsided as to the impact this would have on their business. 
 - I offered to research into the assistance provided by the government and the extent to which different types of businesses would be able to utilise this. 
