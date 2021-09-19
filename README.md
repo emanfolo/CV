@@ -11,10 +11,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Mazars UK** (September 2019 to September 2021)  
+Graduate Trainee Accountant
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Gained experience establishing and nurturing client relationships, as well as managing a large portfolio of clients based in the UK and abroad. 
+- Worked directly with partners on several projects, gaining valuable insight into the financial services industry. 
+- Developed strong verbal and written communication skills, including the ability to explain highly technical concepts to clients in terms they find digestible.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -62,16 +64,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Your University / College (September 2016 to July 2019)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+University of Leicester — Law LLB 
+- 2:1
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- ICAEW ACA - Part qualified with 9/15 exam passed
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- 
