@@ -6,12 +6,12 @@ I am a highly motivated self-starter with a keen interest in web development. I 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| Mealstack          | Recipe and mealplan web-app which provides tailored mealplans based on users nutritional needs | React, Javascript, CSS, HTML, Node.js, Express.js, Prisma, PostgresQL, Jest, Cypress, Heroku, Netlify, Passport.js |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Tech/tools        | Links        |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| Mealstack          | Recipe and mealplan web-app which provides tailored mealplans based on users nutritional needs | React, Javascript, CSS, HTML, Node.js, Express.js, Prisma, PostgresQL, Jest, Cypress, Heroku, Netlify, Passport.js | Link |
+| **Something else worked on** | A webapp to do y. | Ruby              | Link |
+| **Something else worked on** | A webapp to do y. | Ruby              | Link |
+| **Something else worked on** | A webapp to do y. | Ruby              | Link |
 
 ## Work Experience
 
