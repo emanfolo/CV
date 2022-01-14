@@ -8,7 +8,7 @@ I am a highly motivated self-starter with a keen interest in web development. I 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Mealstack          | A webapp to do x. | React, Jest, etc. |
+| Mealstack          | Recipe and mealplan web-app which provides tailored mealplans based on users nutritional needs | React, Javascript, CSS, HTML, Node.js, Express.js, Prisma, PostgresQL, Jest, Cypress, Heroku, Netlify, Passport.js |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
