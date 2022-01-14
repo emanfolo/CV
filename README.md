@@ -40,7 +40,7 @@ Graduate Trainee Accountant
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2021 to December 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
