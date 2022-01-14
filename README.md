@@ -2,6 +2,8 @@
 
 I am a driven by self-improvement, passionate about learning, and motivated to actualise my full potential. In my professional career since graduating I have gained valuable business and finance knowledge as well as a determination to achieve my goals. What excites me the most about tech is the ever expanding pool of knowledge to draw from, I believe this field is a perfect match for my intellectual curiosity.
 
+I am a highly motivated self-starter with a keen interest in web development. I enjoy solving problems and am capable of providing solutions both collaboratively as well as independently.
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
