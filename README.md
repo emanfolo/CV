@@ -51,12 +51,12 @@ Financial Services Corporate Tax Graduate
 - Worked using Agile methodologies (Pairing, Scrum, Sprints, Stand-ups and Retros) 
 
 
-#### Your University / College (September 2016 to July 2019)
+#### University (September 2016 to July 2019)
 
 University of Leicester — Law LLB 
 - 2:1
 
-#### Any other qualifications
+#### ICAEW (September 2019 to September 2021)
 
 - ICAEW ACA - Part qualified
 
