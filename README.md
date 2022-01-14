@@ -58,7 +58,7 @@ University of Leicester — Law LLB
 
 #### ICAEW (September 2019 to September 2021)
 
-- ICAEW ACA - Part qualified
+- ACA - Part qualified accountant
 
 ## Hobbies
 
