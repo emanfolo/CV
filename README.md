@@ -8,7 +8,7 @@ I am a highly motivated self-starter with a keen interest in web development. I 
 
 | Name                         | Description       | Tech/tools        | Links        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| Mealstack          | Recipe and mealplan web-app which provides tailored mealplans based on users nutritional needs | React, Javascript, CSS, HTML, Node.js, Express.js, Prisma, PostgresQL, Jest, Cypress, Heroku, Netlify, Passport.js | Link |
+| Mealstack          | Recipe and mealplan web-app which provides tailored mealplans based on users nutritional needs | React, Javascript, CSS, HTML, Node.js, Express.js, Prisma, PostgresQL, Jest, Cypress, Heroku, Netlify, Passport.js | [Backend](https://github.com/emanfolo/mealstack-backend) [Frontend](https://github.com/ConorButler/mealstack-frontend) [Site](https://mealstack.netlify.app/) |
 | **Something else worked on** | A webapp to do y. | Ruby              | Link |
 | **Something else worked on** | A webapp to do y. | Ruby              | Link |
 | **Something else worked on** | A webapp to do y. | Ruby              | Link |
