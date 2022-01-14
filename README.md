@@ -8,7 +8,9 @@ I am a highly motivated self-starter with a keen interest in web development. I 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| Mealstack          | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
