@@ -1,8 +1,10 @@
 ## Emmanuel Folorunsho
 
-I am a driven by self-improvement, passionate about learning, and motivated to actualise my full potential. In my professional career since graduating I have gained valuable business and finance knowledge as well as a determination to achieve my goals. What excites me the most about tech is the ever expanding pool of knowledge to draw from, I believe this field is a perfect match for my intellectual curiosity.
-
 I am a highly motivated self-starter with a keen interest in web development. I enjoy solving problems and am capable of providing solutions both collaboratively as well as independently.
+
+## Contacts
+
+
 
 ## Projects
 
@@ -16,7 +18,7 @@ I am a highly motivated self-starter with a keen interest in web development. I 
 ## Work Experience
 
 **Mazars UK** (September 2019 to September 2021)  
-Graduate Trainee Accountant
+Financial Services Corporate Tax Graduate 
 
 - Gained experience establishing and nurturing client relationships, as well as managing a large portfolio of clients based in the UK and abroad. 
 - Worked directly with partners on several projects, gaining valuable insight into the financial services industry. 
@@ -41,13 +43,13 @@ Graduate Trainee Accountant
 ## Education
 
 #### Makers Academy (August 2021 to December 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
+- Massive focus on self-led learning, equipping students with the ability to pick up new technologies and solve problems independently
+- Focus on Object-Oriented Programming, REST API's, Data Structures and Algorithms
+- Gained strong understanding of technologies such as JavaScript, TypeScript, Node.js, Express.js, PostgresQL, React, Ruby, Rails
+- Developed a process which includes Test Driven Development, applying SOLID principles and following clean code practices for scalable code
+- Worked using Agile methodologies (Pairing, Scrum, Sprints, Stand-ups and Retros) 
+
 
 #### Your University / College (September 2016 to July 2019)
 
@@ -62,3 +64,7 @@ University of Leicester — Law LLB
 
 - I'm particularly interested in running and I'm inspired by the ways in which the discipline it provides can help you in other aspects of life
 - I'm also really interested in philosophy as I believe its study provides a good way to maintain perspective on the important things in life
+- Mindfulness and meditation
+- Cooking and nutrition
+
+
