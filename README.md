@@ -58,13 +58,11 @@ University of Leicester — Law LLB
 
 #### Any other qualifications
 
-- ICAEW ACA - Part qualified with 9/15 exam passed
+- ICAEW ACA - Part qualified
 
 ## Hobbies
 
-- I'm particularly interested in running and I'm inspired by the ways in which the discipline it provides can help you in other aspects of life
-- I'm also really interested in philosophy as I believe its study provides a good way to maintain perspective on the important things in life
+- Long distance running
+- Philosophy
 - Mindfulness and meditation
 - Cooking and nutrition
-
-
